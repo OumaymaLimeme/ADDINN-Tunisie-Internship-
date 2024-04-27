@@ -9,7 +9,7 @@ During my internship at ADDINN, the proposed solution aimed to automate its recr
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-</p>p
+</p>
 
 ![login](https://github.com/OumaymaLimeme/ADDINN-Tunisie-Internship-/assets/92635384/5ac585e4-ceef-4104-807d-aa7833a65d1b)
 ![Inscription](https://github.com/OumaymaLimeme/ADDINN-Tunisie-Internship-/assets/92635384/bbb4a838-57a0-4ff0-b174-2b171527368d)
