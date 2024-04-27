@@ -1,6 +1,16 @@
 # ADDINN-Tunisie-Internship-
 
-During my internship at ADDINN, the proposed solution aimed to automate its recruitment process through the development of the 'e-recruitment' platform. This platform significantly streamlined the pre-selection of candidates, optimizing the hiring workflow. To enhance security and facilitate secure user authentication and authorization, the platform incorporated JSON Web Tokens (JWT). The use of JWT technology enabled secure token generation and exchange, boosting the platform’s integrity and confidentiality. This automation not only sped up the recruitment process but also ensured that sensitive candidate data and interactions were protected with strong security protocols.
+
+During my internship at ADDINN, the proposed solution aimed to automate its recruitment process through the development of the 'e-recruitment' platform. My role involved backend development for the entire application using .NET, as well as contributing to a portion of the frontend. This platform significantly streamlined the pre-selection of candidates, optimizing the hiring workflow. To enhance security and facilitate secure user authentication and authorization, the platform incorporated JSON Web Tokens (JWT). The use of JWT technology enabled secure token generation and exchange, boosting the platform’s integrity and confidentiality. This automation not only sped up the recruitment process but also ensured that sensitive candidate data and interactions were protected with strong security protocols.
+
+### 🛠 &nbsp;Tech Stack
+
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+ <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+</p>p
+
 ![login](https://github.com/OumaymaLimeme/ADDINN-Tunisie-Internship-/assets/92635384/5ac585e4-ceef-4104-807d-aa7833a65d1b)
 ![Inscription](https://github.com/OumaymaLimeme/ADDINN-Tunisie-Internship-/assets/92635384/bbb4a838-57a0-4ff0-b174-2b171527368d)
 ![acceuil](https://github.com/OumaymaLimeme/ADDINN-Tunisie-Internship-/assets/92635384/e13cbdfd-d4ea-4c4a-81ea-3d987340b6e2)
